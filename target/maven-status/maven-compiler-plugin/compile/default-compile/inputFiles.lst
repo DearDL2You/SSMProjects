@@ -1,0 +1,11 @@
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\aop\LogAspect.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\model\MyBeanFactoryPostProcessor.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\model\MyBeanPostProcessor.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\controller\UserController.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\model\User.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\service\UserService.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\dao\UserDao.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\model\Person.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\service\impl\UserServiceImpl.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\model\MyInstantiationAwareBeanPostProcessor.java
+D:\eclipse-workspace\SSMProjects\src\main\java\com\dinglei\aop\LogAspectJ.java

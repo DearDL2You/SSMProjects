@@ -1,0 +1,11 @@
+com\dinglei\dao\UserDao.class
+com\dinglei\model\User.class
+com\dinglei\aop\LogAspect.class
+com\dinglei\service\UserService.class
+com\dinglei\aop\LogAspectJ.class
+com\dinglei\model\MyInstantiationAwareBeanPostProcessor.class
+com\dinglei\model\Person.class
+com\dinglei\model\MyBeanPostProcessor.class
+com\dinglei\controller\UserController.class
+com\dinglei\model\MyBeanFactoryPostProcessor.class
+com\dinglei\service\impl\UserServiceImpl.class
